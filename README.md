@@ -1,7 +1,7 @@
 # wangshouqi0463-cloud.github.io
-### 👋 Hi there! I'm [Shouqi Wang]
+### 👋 Hi there! I'm Shouqi Wang
 
-I am a **Master's student** at [Zhejiang University], focusing on the intersection of **Time Series Forecasting** and **Vision-Language Models (VLMs)**. 
+I am a **Master's student** at Zhejiang University, focusing on the intersection of **Time Series Forecasting** and **Vision-Language Models (VLMs)**. 
 
 My research interests include:
 - 📈 **Spatiotemporal Data Mining**: Traffic flow prediction, urban computing.
@@ -9,4 +9,4 @@ My research interests include:
 - 🧠 **Deep Learning**: Exploring the inductive biases of GNNs and Transformers.
 
 ---
-📫 **How to reach me:** [wangshouqi@zju.edu.cn]
+📫 **How to reach me:** wangshouqi@zju.edu.cn
